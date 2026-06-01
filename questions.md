@@ -30,3 +30,8 @@
 
 - Scheduling DAGs/jobs in Airflow on a daily basis. Different operators in Airflow.
 - How to backfill a failed DAG safely
+
+- Ingeniería de Datos: Arquitectura Medallion, Diseño ETL/ELT, Esquema Estrella, Idempotencia.
+- Almacenamiento y Cómputo: Databricks (Delta Lake), Google Cloud Platform (BigQuery, GCS, Cloud Run), PostgreSQL.
+- Herramientas y Lenguajes: Python (PySpark, Pandas, FastAPI), SQL, Docker, GitHub Actions.
+- Visualización: Metabase, Looker Studio, Streamlit.
