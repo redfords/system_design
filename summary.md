@@ -163,3 +163,9 @@ Automating technical and operational workflows, including calculations, validati
 Collaborating closely with functional and operational teams, contributing to both technical design and business logic from a data engineering perspective.
 
 https://www.linkedin.com/in/florencia-robledo-viano/
+
+### Cloud Data Engineer
+
+● Certified as a Professional Cloud Data Engineer.
+● Delivered solutions based on Google Cloud Platform products for client-facing projects, including customers such as AT&T and Telus. Performed data analysis, hosted workshops, designed and proposed data architectures and constructed data pipelines, all focused on solving the customers’ needs.
+● Guided clients in consulting projects by leveraging knowledge in GCP, including products such as: Dialogflow, BigQuery, Cloud Composer, Cloud Logging, Cloud Monitor, Cloud Functions, Cloud SQL, Cloud Storage and Data Loss Prevention.
