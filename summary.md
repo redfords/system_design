@@ -169,3 +169,17 @@ https://www.linkedin.com/in/florencia-robledo-viano/
 ● Certified as a Professional Cloud Data Engineer.
 ● Delivered solutions based on Google Cloud Platform products for client-facing projects, including customers such as AT&T and Telus. Performed data analysis, hosted workshops, designed and proposed data architectures and constructed data pipelines, all focused on solving the customers’ needs.
 ● Guided clients in consulting projects by leveraging knowledge in GCP, including products such as: Dialogflow, BigQuery, Cloud Composer, Cloud Logging, Cloud Monitor, Cloud Functions, Cloud SQL, Cloud Storage and Data Loss Prevention.
+
+JPMorgan
+
+- Develop and maintain scalable data pipelines within Databricks using Python, PySpark, and Spark SQL, ingesting data from multiple sources (including Snowflake) for processing and transformation.
+
+- Build curated datasets and data models in Databricks to support BI reporting, scorecards, and analytics for Business Banking (SMB) customers.
+
+- Enable tracking of key metrics, including customer behavior, portfolio performance, and financial product KPIs, through optimized data solutions.
+
+- Orchestrate end-to-end workflows using Airflow, ensuring data reliability, quality, and timely delivery across environments.
+
+- Support CI/CD processes using Jenkins to enable automated deployment and integration of data pipelines in AWS-based environments.
+
+- Collaborate with US-based Consumer Finance and Technology teams, contributing to cross-regional delivery of Business Banking data initiatives.
