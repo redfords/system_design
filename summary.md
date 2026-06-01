@@ -143,3 +143,23 @@ https://www.linkedin.com/in/hectorbe/
 https://www.linkedin.com/in/lucas-mariano-contreras-251b9411b/
 
 https://www.linkedin.com/in/georgina-de-bellis/
+
+I worked as part of the data engineering team on a large-scale operational monitoring and diagnostic platform used to support decision-making across thousands of oil wells.
+
+My role focused on data platform design and evolution, including:
+
+Designing and evolving the system’s data model and data architecture, with a focus on scalability, clarity, and long-term maintainability.
+
+Building and maintaining ETL processes to transform raw operational data into reliable and consistent datasets.
+
+Integrating multiple heterogeneous data sources, including SQL Server, PostgreSQL, Oracle databases, and external APIs.
+
+Applying technical and operational business rules to convert raw data into key indicators used for monitoring, alerts, rankings, and automated diagnostics.
+
+Refactoring existing data workflows into a more centralized, modular, and maintainable data model, improving system efficiency and scalability.
+
+Automating technical and operational workflows, including calculations, validations, and simulations for different extraction systems.
+
+Collaborating closely with functional and operational teams, contributing to both technical design and business logic from a data engineering perspective.
+
+https://www.linkedin.com/in/florencia-robledo-viano/
