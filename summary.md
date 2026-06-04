@@ -170,7 +170,7 @@ https://www.linkedin.com/in/florencia-robledo-viano/
 ● Delivered solutions based on Google Cloud Platform products for client-facing projects, including customers such as AT&T and Telus. Performed data analysis, hosted workshops, designed and proposed data architectures and constructed data pipelines, all focused on solving the customers’ needs.
 ● Guided clients in consulting projects by leveraging knowledge in GCP, including products such as: Dialogflow, BigQuery, Cloud Composer, Cloud Logging, Cloud Monitor, Cloud Functions, Cloud SQL, Cloud Storage and Data Loss Prevention.
 
-JPMorgan
+### JPMorgan
 
 - Develop and maintain scalable data pipelines within Databricks using Python, PySpark, and Spark SQL, ingesting data from multiple sources (including Snowflake) for processing and transformation.
 
@@ -183,3 +183,24 @@ JPMorgan
 - Support CI/CD processes using Jenkins to enable automated deployment and integration of data pipelines in AWS-based environments.
 
 - Collaborate with US-based Consumer Finance and Technology teams, contributing to cross-regional delivery of Business Banking data initiatives.
+
+- ### Ring
+
+- As a Data Engineer at Ring (a subsidiary of Amazon), responsible for building and maintaining high-volume, scalable data pipelines supporting both batch and real-time processing. Using Python, SQL, Apache Airflow and AWS ecosystem, I contributed to the ingestion, transformation, and delivery of data into a petabyte-scale Amazon Redshift data warehouse and S3-backed data lake.
+
+Key Contributions:
+• Developed and maintained over 2,000 daily and hourly ETL pipelines, populating 200+ curated datasets that powered business-critical analytics and reporting.
+• Supported a petabyte-scale Redshift cluster, serving as the data foundation for 7,000+ Tableau extract refreshes daily and ~20,000 ad hoc queries across the business.
+• Built reliable data workflows using Apache Airflow (MWAA) and PySpark/SparkSQL, ensuring efficient data delivery, recovery, and monitoring at scale.
+• Implemented real-time streaming pipelines leveraging MSK, AWS Kinesis, Lambda, and API Gateway to enable low-latency data consumption.
+• Led integrations with external partners (e.g., Zendesk, SendGrid) to ingest third-party data into the data warehouse, enhancing downstream analytics and visibility.
+• Utilized Logstash, Elasticsearch, and Kibana for observability and operational monitoring of data pipelines and system health.
+
+- Technologies & Tools:
+Languages & Processing: Python, SQL, PySpark/SparkSQL
+Workflow Orchestration: Apache Airflow (MWAA)
+Streaming & Messaging: MSK, AWS Kinesis, Lambda, API Gateway, Cognito, Firehose, DynamoDB
+Data Platforms: Amazon Redshift (Petabyte-scale), Amazon S3, EMR, Athena
+Monitoring: Logstash, Elasticsearch, Kibana
+Visualization Support: Tableau (7K+ extracts/day), ad hoc querying
+
