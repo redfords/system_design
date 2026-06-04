@@ -204,3 +204,23 @@ Data Platforms: Amazon Redshift (Petabyte-scale), Amazon S3, EMR, Athena
 Monitoring: Logstash, Elasticsearch, Kibana
 Visualization Support: Tableau (7K+ extracts/day), ad hoc querying
 
+### Personal
+
+ - Relevar necesidades de la tribu y traducirlas en iniciativas analíticas de alto impacto que empujen los OKRs.
+
+- Ser el referente de datos para el equipo de Producto, acompañando la evolución hacia decisiones basadas en información.
+
+- Analizar el comportamiento del cliente in-app para identificar palancas que mejoren el engagement, la retención y la monetización del negocio.
+
+✔️ Desarrollar segmentaciones avanzadas de clientes para potenciar la relevancia de contenidos, ofertas y mensajes.
+
+✔️ Crear y automatizar dashboards de métricas clave (churn, adopción, tiempos), asegurando que la información sea accionable y escalable.
+
+✔️ Priorizar el backlog bajo metodología Agile, equilibrando demandas urgentes con proyectos de análisis profundo.
+
+✔️ Comunicar hallazgos y desvíos de manera efectiva (storytelling) a stakeholders, transformando datos complejos en narrativas claras.
+
+✔️ Promover una cultura self-service + data-driven, democratizando el acceso a los datos y capacitando al equipo en el uso de herramientas analíticas.
+
+-  Empatía con el usuario para hacer foco en resolver sus problemas a través de los datos.
+
