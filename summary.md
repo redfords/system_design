@@ -224,3 +224,12 @@ Visualization Support: Tableau (7K+ extracts/day), ad hoc querying
 
 -  Empatía con el usuario para hacer foco en resolver sus problemas a través de los datos.
 
+-  Soy Data Engineer especializado en diseñar arquitecturas escalables, optimizar procesos de datos críticos y aplicar metodologías de Ingeniería de Software para construir plataformas robustas. 
+
+A lo largo de mi carrera, he evolucionado desde el análisis y Machine Learning hasta el liderazgo técnico en proyectos de gran escala. Mis principales hitos incluyen:
+• Arquitectura y Liderazgo: Lideré un equipo para migrar de bitbucket a github y cambiando el enfoque a Data Mesh, centralizando el CI/CD e impactando más de 800 modelos de dbt y 1000 DAGs de Airflow.  
+• Performance: Fui pieza clave en la migración core hacia Snowflake en el sector financiero, reduciendo tiempos de procesamiento de ETLs de 5 horas a 30 minutos.  
+• Configuration-as-Code: Implementé la generación dinámica de DAGs mediante YAML y Jinja, empoderando a Data Analysts y Scientists para gestionar sus propios pipelines de forma autónoma.
+
+Stack Tecnológico: Python, SQL | AWS, Snowflake, PostgreSQL | Apache Airflow, dbt, PySpark | CI/CD (GitHub/GitLab/Bitbucket), Docker.  
+
