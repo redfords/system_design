@@ -233,3 +233,18 @@ A lo largo de mi carrera, he evolucionado desde el análisis y Machine Learning 
 
 Stack Tecnológico: Python, SQL | AWS, Snowflake, PostgreSQL | Apache Airflow, dbt, PySpark | CI/CD (GitHub/GitLab/Bitbucket), Docker.  
 
+Lidere iniciativas clave para la modernización de la plataforma de datos y la automatización de procesos críticos del negocio:
+• Participé activamente en la migración core de bases de datos desde PostgreSQL hacia Snowflake. Esto generó una mejora drástica en el rendimiento de las consultas, optimizando procesos que tardaban 5 horas a solo 30 minutos, y reduciendo otros de 2 horas a 10 minutos.  
+• Lideré la creación de pipelines de ETL robustos utilizando Python, Airflow y SQL. Estos pipelines automatizaron reportes impositivos y procesaron información sensible como la central de deudores, gestión de préstamos y el cálculo del perfil de riesgo de los clientes.  
+• Desarrollé y optimicé la arquitectura Cloud en AWS, administrando y consultando recursos mediante S3 y Athena.  
+• Implementé la creación dinámica de DAGs en Apache Airflow, estandarizando el código y agilizando significativamente los tiempos de desarrollo y despliegue de todo el equipo.
+
+Como Data Engineer, asumí el mayor desafío técnico de mi carrera liderando iniciativas estratégicas de reestructuración y optimización de procesos a nivel organizacional:
+• Lideré un equipo de 7 personas en el proyecto de validaciones automáticas de dbt y Airflow, gestionando el ciclo de vida ágil (planificación, priorización, weeklys y retrospectivas).
+• Dirigí la reestructuración y migración completa de 6 repositorios desde Bitbucket hacia GitHub, impactando a una escala de más de 800 modelos de dbt y 1000 DAGs de Airflow. Esto implicó rediseñar la arquitectura hacia un enfoque Data Mesh (orientado por dominios), crear los scripts de migración y trasladar todos los pipelines de CI/CD.
+• Optimicé radicalmente la estructura de validaciones (CI/CD): centralicé los scripts de validación en un único repositorio core, eliminando la redundancia que existía por proyecto y facilitando el despliegue de nuevas features para todo el equipo de datos.
+• Desarrollé una herramienta interna para la generación dinámica de DAGs en Airflow impulsada por archivos YAML. Implementé templates personalizados con Jinja y utilicé dag-factory, logrando un enfoque 100% por configuración (Configuration-as-Code). Esto empoderó a Data Analysts y Data Scientists para crear sus propios pipelines de forma autónoma, y permitió que cualquier actualización en un template impacte globalmente sin necesidad de modificar código DAG por DAG.
+• Creé el proceso de aprobación automática de Pull Requests para DAGs y modelos de dbt, integrando validaciones y notificaciones en tiempo real mediante Slack.
+• Implementé soluciones en AWS, destacando la generación de archivos para Backup de Amazon QuickSight mediante AWS Lambda y scripts de recuperación con Python.  
+• Construí y normalicé procesos de ingesta de datos desde APIs y Google Sheets utilizando Python, Airflow y S3. Además, generé la documentación oficial de buenas prácticas para la construcción de modelos en dbt.
+
