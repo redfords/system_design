@@ -274,3 +274,5 @@ Stack: GCP · BigQuery · Dataflow · Cloud Composer · Apache Airflow · Cloud 
 
 Stack: GCP · Pub/Sub · Dataflow · Cloud Functions · Cloud Run · Docker · FastAPI · InfluxDB · Python · FB Prophet
 
+ Pipelines: Diseñar e implementar procesos de ingesta/transformación en arquitecturas modernas. 
+🔹 Integración: Asegurar que los datos de diversas fuentes sean consistentes y accesibles. 🔹 Performance: Optimizar constantemente los flujos para una entrega eficiente.
