@@ -296,3 +296,12 @@ Built a Scrapy-based web-scraping platform (deployed via AWS CDK/ECR) for sports
 Manage Snowflake infrastructure via Terraform: RBAC (roles, warehouses, service users), OAuth security integrations for ERP system access, and schema/database provisioning across business units.
 
 Maintain AWS CDK Pipelines infrastructure-as-code across ingestion, curation, and reporting stacks, with full pytest/snapshot-test coverage as a deployment gate.
+
+
+Actualmente estoy en el sector de Data Onboarding en Mercado Pago midiendo y analizando el comportamiento de usuarios en la billetera digital.
+
+Especializado en analytics engineering, modelado de datos y optimización de pipelines analíticos, con foco en métricas core de producto como onboarding, activación y hábito. Experiencia definiendo KPIs, diseñando frameworks de A/B testing y acompañando decisiones de negocio basadas en datos.
+
+He trabajado en la integración de MCPs dentro de plataformas internas de orquestación de workflows, colaborando estrechamente con equipos de backend, data y producto.
+
+Actualmente estoy orientando mi carrera hacia Applied AI y sistemas basados en LLMs, buscando combinar una base sólida en datos, métricas, experimentación y arquitectura backend para construir soluciones de IA prácticas, medibles y escalables.
