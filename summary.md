@@ -276,3 +276,23 @@ Stack: GCP · Pub/Sub · Dataflow · Cloud Functions · Cloud Run · Docker · F
 
  Pipelines: Diseñar e implementar procesos de ingesta/transformación en arquitecturas modernas. 
 🔹 Integración: Asegurar que los datos de diversas fuentes sean consistentes y accesibles. 🔹 Performance: Optimizar constantemente los flujos para una entrega eficiente.
+
+Own end-to-end data platform architecture for a high-volume e-commerce and sports-collectibles business, spanning ingestion, lakehouse storage, warehouse modeling, streaming, orchestration, and the underlying cloud infrastructure — across 14+ services.
+
+Designed and maintained an Apache Iceberg–based lakehouse on AWS Glue Data Catalog (PyIceberg), including upsert/merge logic, a disaster-recovery framework for weekly backups and table recovery, and OPTIMIZE/compaction jobs to keep table runtimes manageable.
+
+Own Shopify order ingestion end-to-end: migrated to Shopify's GraphQL Bulk API fixed OOM issues and built a TypeScript/Fastify service generating Oracle finance and ECOMM reports from Shopify data across multiple locales. 
+
+Built ingestion and curation pipelines for Amazon, Walmart Marketplace, Magento, Airtable, Genesys and a live foreign-exchange rate feed.
+
+Integrated marketing/product data sources (Braze, Salesforce, Amplitude, Algolia, AppsFlyer, MaxMind) into the warehouse, including automated Braze-triggered customer messaging jobs.
+
+Built a real-time Segment-to-Snowflake event pipeline (Kinesis Firehose + Lambda transform), and published the pattern as a versioned, reusable Terraform module for org-wide adoption.
+
+Built and operate Airflow (Astronomer) DAGs for ops metrics reporting, dbt test orchestration, missing-event monitoring, and GeoIP mapping automation, with Slack-based alerting wired into each.
+
+Built a Scrapy-based web-scraping platform (deployed via AWS CDK/ECR) for sports data ingestion (Sportradar, MLB, Fangraphs, Beckett), including Cloudflare-bypass handling and Slack-based failure alerting.
+
+Manage Snowflake infrastructure via Terraform: RBAC (roles, warehouses, service users), OAuth security integrations for ERP system access, and schema/database provisioning across business units.
+
+Maintain AWS CDK Pipelines infrastructure-as-code across ingestion, curation, and reporting stacks, with full pytest/snapshot-test coverage as a deployment gate.
