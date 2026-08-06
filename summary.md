@@ -298,10 +298,38 @@ Manage Snowflake infrastructure via Terraform: RBAC (roles, warehouses, service 
 Maintain AWS CDK Pipelines infrastructure-as-code across ingestion, curation, and reporting stacks, with full pytest/snapshot-test coverage as a deployment gate.
 
 
-Actualmente estoy en el sector de Data Onboarding en Mercado Pago midiendo y analizando el comportamiento de usuarios en la billetera digital.
+🔹 Actualmente estoy en el sector de Data Onboarding en Mercado Pago midiendo y analizando el comportamiento de usuarios en la billetera digital.
 
-Especializado en analytics engineering, modelado de datos y optimización de pipelines analíticos, con foco en métricas core de producto como onboarding, activación y hábito. Experiencia definiendo KPIs, diseñando frameworks de A/B testing y acompañando decisiones de negocio basadas en datos.
+🔹 Especializado en analytics engineering, modelado de datos y optimización de pipelines analíticos, con foco en métricas core de producto como onboarding, activación y hábito. Experiencia definiendo KPIs, diseñando frameworks de A/B testing y acompañando decisiones de negocio basadas en datos.
 
-He trabajado en la integración de MCPs dentro de plataformas internas de orquestación de workflows, colaborando estrechamente con equipos de backend, data y producto.
+🔹 He trabajado en la integración de MCPs dentro de plataformas internas de orquestación de workflows, colaborando estrechamente con equipos de backend, data y producto.
 
-Actualmente estoy orientando mi carrera hacia Applied AI y sistemas basados en LLMs, buscando combinar una base sólida en datos, métricas, experimentación y arquitectura backend para construir soluciones de IA prácticas, medibles y escalables.
+🔹 Actualmente estoy orientando mi carrera hacia Applied AI y sistemas basados en LLMs, buscando combinar una base sólida en datos, métricas, experimentación y arquitectura backend para construir soluciones de IA prácticas, medibles y escalables.
+
+- Engineered and maintained ETL data pipelines, ensuring seamless data flow and integrity throughout the data lifecycle.
+
+- Conducted comprehensive data quality tests to validate the accuracy, completeness, and consistency of the data, guaranteeing high-quality data outputs for downstream consumption.
+
+- Defined key metrics and KPIs for the marketing team, leveraging data insights to drive informed decision-making and optimize marketing strategies for enhanced customer engagement and acquisition.
+
+- - Used SQL and custom frameworks to generate DAGs and perform complex data transformations. Innovatively incorporated additional features to enhance functionality and efficiency.
+
+- Conducted meticulous data modeling to guarantee optimal structures for streamlined processing and insightful analysis, ensuring seamless integration with existing systems.
+
+- Ensured data quality by executing rigorous testing and debugging procedures, maintaining impeccable standards throughout all stages of the data lifecycle.
+
+- Leveraged Kubernetes and Docker to facilitate streamlined deployment processes, providing crucial on-call maintenance support to uphold system integrity and availability.
+
+- Utilized Spark for select tasks, harnessing its capabilities to enhance processing speed and scalability in specific job scenarios.
+
+- Led the end-to-end design and maintenance of ETL pipelines, leveraging a comprehensive tech stack including SQL, Python, Spark, dbt, and Airflow to ensure robust data processing and transformation.
+
+- Spearheaded data warehouse design and modeling initiatives, optimizing data structures and architectures to facilitate efficient and scalable data processing workflows.
+
+- Collaborated closely with cross-functional teams to understand business requirements and translate them into innovative data solutions, driving organizational success through data-driven insights.
+
+- Orchestrated the implementation of Snowflake, a cutting-edge data warehousing platform, to establish a scalable infrastructure for data storage and advanced analytics capabilities.
+
+- Leveraged AWS services to manage and process large volumes of data, ensuring high availability, reliability, and security of critical data assets.
+
+- Pioneered the integration of real-time data ingestion and processing capabilities using Apache Pulsar, enabling timely insights and decision-making based on up-to-the-minute data.
