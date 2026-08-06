@@ -248,3 +248,29 @@ Como Data Engineer, asumí el mayor desafío técnico de mi carrera liderando in
 • Implementé soluciones en AWS, destacando la generación de archivos para Backup de Amazon QuickSight mediante AWS Lambda y scripts de recuperación con Python.  
 • Construí y normalicé procesos de ingesta de datos desde APIs y Google Sheets utilizando Python, Airflow y S3. Además, generé la documentación oficial de buenas prácticas para la construcción de modelos en dbt.
 
+- Reduced critical SLA breaches 80% (15 → 3/year) by engineering centralized monitoring across 15+ cloud and on-premise ETL pipelines using GCP Monitoring, Cloud Logging, and custom alerting scripts.
+
+- Owned production support and on-call incident response (1–5 incidents/week) for pipelines processing up to 50 GB/day, including a high-volume pipeline ingesting 100M records/day from MySQL, SQL Server, and flat files into BigQuery
+
+- Architected a scalable data extraction and processing framework using Airflow, BigQuery, and Cloud Run — used daily by 3 teams to serve 10+ clients, fully operational for 3+ years. 
+
+- Built a statistical anomaly detection system that surfaced hidden data quality failures across multiple client datasets.
+
+- Led full Terraform IaC adoption across all GCP resources: BigQuery, Cloud Build, Composer, Monitoring, Pub/Sub, Cloud SQL, GCS, Scheduler — enabling version-controlled CI/CD pipelines.
+
+- Deployed and owned an Apache Superset BI instance adopted across all teams for operational reporting.
+
+- Delivered internal training on Python, GCP, Terraform, and pipeline engineering to junior/mid engineers.
+
+Stack: GCP · BigQuery · Dataflow · Cloud Composer · Apache Airflow · Cloud Run · Pub/Sub · Terraform · Python · SQL · Docker · CI/CD · Cloud Monitoring
+
+- Designed a high-volume IoT streaming pipeline: GCP Pub/Sub → Dataflow → Cloud Functions → Workflows → Cloud Storage data lake + InfluxDB time-series DB.
+
+- Built production RESTful APIs (FastAPI + OpenAPI/Swagger) for real-time and aggregated sensor data retrieval. 
+
+- Deployed a containerized anomaly detection service (Docker + Cloud Run) applying statistical rules to time-series data — automated daily monitoring with zero manual intervention.
+
+- Engineered a solar energy output forecasting model using Python (FB Prophet) and weather APIs, integrated into client-facing systems.  
+
+Stack: GCP · Pub/Sub · Dataflow · Cloud Functions · Cloud Run · Docker · FastAPI · InfluxDB · Python · FB Prophet
+
