@@ -333,3 +333,5 @@ Maintain AWS CDK Pipelines infrastructure-as-code across ingestion, curation, an
 - Leveraged AWS services to manage and process large volumes of data, ensuring high availability, reliability, and security of critical data assets.
 
 - Pioneered the integration of real-time data ingestion and processing capabilities using Apache Pulsar, enabling timely insights and decision-making based on up-to-the-minute data.
+
+https://www.linkedin.com/in/juanafanadordataengineer/
