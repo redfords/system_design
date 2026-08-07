@@ -335,3 +335,19 @@ Maintain AWS CDK Pipelines infrastructure-as-code across ingestion, curation, an
 - Pioneered the integration of real-time data ingestion and processing capabilities using Apache Pulsar, enabling timely insights and decision-making based on up-to-the-minute data.
 
 https://www.linkedin.com/in/juanafanadordataengineer/
+
+### Specialist Data Engineer & Tech Lead
+
+Como Tech Lead y Specialist Data Engineer me encuentro a cargo de las definiciones y direcciones de las mejores prácticas técnicas y de arquitectura para el equipo. Doy soporte y mentorías para nuestros ingenieros de datos al igual que miembros de otros equipos.
+Me encuentro a cargo de las code reviews y de generar patrones saludables para mejoras del código. Estoy a cargo del desarrollo de las habilidades técnicas del equipo al igual que en la toma de decisiones/desarrollo sobre que herramientas de trabajo utilizar. Y me encuentro diseñando y construyendo frameworks al igual que herramientas personalizadas que orquestan agentes autónomos de IA al igual que soluciones mediante Spec Driven Develpment.
+Asisto en refinar el alcance técnico de las soluciones junto a nuestro P.O.; mantengo alineados los criterios de gobernanza de datos con nuestros referentes y colaboro con nuestros partners externos y stakeholders donde sea necesario.
+
+### Senior Data Engineer & Data Product Owner
+Como Data Product Owner y Senior Data Engineer, lidero la definición y evolución de productos de datos que conectan Infraestructura, Analytics, Strategy y Operations, traduciendo necesidades de negocio en soluciones escalables apalancado en metodologías ágiles.
+Tengo ownership end-to-end sobre el ciclo de vida de los productos de datos: desde el diseño de arquitectura hasta su implementación, operación en producción y mantenimiento posterior.
+Diseño y desarrollo soluciones sobre GCP, utilizando prácticas de Infrastructure as Code (Terraform) y, automatizaciones con Python y Bash, asegurando escalabilidad, confiabilidad y eficiencia operativa.
+Además, soy responsable de la construcción, administración y monitoreo de pipelines de datos y del mantenimiento del data warehouse a nivel regional, garantizando calidad, disponibilidad y gobierno de la información para la toma de decisiones.
+Al igual que el desarrollo técnico de los miembros de mi equipo y terceros.
+
+### Senior B.I. Analyst | Data Developer
+Soy el Analista Senior dentro del Equipo de Mejora Continua a cargo de proveer información analítica para nuestros proyectos, buscar puntos de partida para nuevas mejoras, insights de negocio, al igual que soporte a las células de proyectos especiales, soporte operativo y cross. Dentro de mis responsabilidades también me encargo del desarrollo de nuestro ecosistema de datos e infraestructura, crear procesos de automatización a distintos niveles. Creación de dashboards, administración de nuestro sandbox al igual que la gestión de documentación y armado de modelos de datos a nivel Regional (Latam). El último año en el rol también estuve encargado de liderar el equipo de BI.
