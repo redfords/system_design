@@ -389,3 +389,29 @@ Soy el Analista Senior dentro del Equipo de Mejora Continua a cargo de proveer i
 - Continuously leverage AI-driven solutions and applied AI tools and agents to optimize data workflows and enhance personal and team productivity. 
 
 - Contributed to the development of GitHub Actions to standardize deployment processes.
+
+Defined and led the design of enterprise data architectures on AWS for enterprise environments, in regulated fintech and banking contexts, enabling scalable, governed, and metadata-driven platforms adopted across diverse business domains.
+
+Key achievements:
+• Architected a cloud-native Lakehouse on AWS (Terraform, Spark, Iceberg, Airflow) with real-time ingestion via Kinesis Streams/Firehose for event-driven integrations, consolidating 100+ business domains and reducing dataset delivery time from 4 weeks to 3 days.
+
+• Directed the modernization from on-premise to AWS, establishing Infrastructure-as-Code standards with Terraform and reducing environment provisioning time from 5 days to 2 hours, with over 80 % of infrastructure managed as code.
+
+• Defined reusable architecture patterns and domain ownership models aligned with Data Mesh principles, decreasing dependencies on the central team from 10+ to 1 request per month and strengthening data accountability org-wide.
+
+• Established metadata-driven governance with AWS Glue, Lake Formation, and LF-Tags, integrating AI-assisted validation (Amazon Bedrock) to achieve 70% metadata completeness and reduce downstream inconsistencies by 30%.
+
+• Embedded FinOps principles into architectural design decisions, optimizing cloud resource usage and reducing monthly AWS spend by 20% through rightsizing, automation, and governance.
+
+Leading the design and implementation of a metadata-driven Databricks Lakehouse modernization for a renewable energy analytics platform, establishing scalable ingestion, governance, and deployment standards.
+
+Key achievements:
+
+• Designed reusable ingestion frameworks for APIs, files, and database tables using Databricks Asset Bundles and data contracts, reducing source-specific implementation effort by ~50% and shortening the onboarding of 
+new entities from 2–3 days to less than 1 day.
+
+• Defined auditable ingestion patterns for incremental loads, historical backfills, full-source reconciliation, deduplication, and soft deletes, improving consistency and traceability across 20+ ingested entities.
+
+• Standardized Unity Catalog governance through automated metadata, tagging, and access-control synchronization, automating ~80% of recurring governance configuration and enabling consistent security policies across environments.
+
+• Strengthened platform reliability through automated validation, deployment workflows, test coverage, and operational metrics, reducing pre-deployment validation time by ~40%.
