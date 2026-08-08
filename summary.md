@@ -336,6 +336,8 @@ Maintain AWS CDK Pipelines infrastructure-as-code across ingestion, curation, an
 
 https://www.linkedin.com/in/juanafanadordataengineer/
 
+https://www.linkedin.com/in/cruzpinedafabian/
+
 ### Specialist Data Engineer & Tech Lead
 
 Como Tech Lead y Specialist Data Engineer me encuentro a cargo de las definiciones y direcciones de las mejores prácticas técnicas y de arquitectura para el equipo. Doy soporte y mentorías para nuestros ingenieros de datos al igual que miembros de otros equipos.
