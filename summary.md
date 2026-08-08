@@ -353,3 +353,25 @@ Al igual que el desarrollo técnico de los miembros de mi equipo y terceros.
 
 ### Senior B.I. Analyst | Data Developer
 Soy el Analista Senior dentro del Equipo de Mejora Continua a cargo de proveer información analítica para nuestros proyectos, buscar puntos de partida para nuevas mejoras, insights de negocio, al igual que soporte a las células de proyectos especiales, soporte operativo y cross. Dentro de mis responsabilidades también me encargo del desarrollo de nuestro ecosistema de datos e infraestructura, crear procesos de automatización a distintos niveles. Creación de dashboards, administración de nuestro sandbox al igual que la gestión de documentación y armado de modelos de datos a nivel Regional (Latam). El último año en el rol también estuve encargado de liderar el equipo de BI.
+
+• Designed and optimized analytical models in BigQuery, supporting large-scale fintech reporting and data products. 
+
+• Built robust and incremental ETL pipelines using SQL and Python, processing high-volume datasets with strong performance.
+
+• Developed event-driven ingestion workflows using Pub/Sub and BigQuery to enable near-real-time data availability.
+
+• Transformed raw and semi-structured data into business-ready models aligned with analytics and product needs.
+
+• Implemented data quality validations and monitoring to ensure consistency, accuracy, and SLA compliance.
+
+• Designed and maintained scalable data ingestion pipelines under a Medallion Architecture (Bronze / Silver / Gold), building Batch, Microbatch, and Near-Real-Time (NRT) flows on AWS (S3, EMR, Kinesis, SQS, Lambda) architectures.
+
+• Developed and optimized ETL/ELT processes using Python, SQL, and DBT, implementing incremental models, reusable macros, documentation, and automated tests to ensure data quality and long-term maintainability.
+
+• Created and orchestrated Airflow DAGs to execute DBT models and custom data processing scripts.
+
+• Collaborated with product, analytics, and engineering teams to translate business requirements into scalable data solutions aligned with data product roadmaps.
+
+• Designed and implemented data integrations between the data lake and external platforms for tracking and engagement (Amplitude, Braze), enabling behavioral analytics, user segmentation, and real-time activation workflows.
+
+• Took ownership of data initiatives across multiple business units, leading technical design and reviewing implementations to ensure performance and best practices.
