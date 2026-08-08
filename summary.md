@@ -375,3 +375,17 @@ Soy el Analista Senior dentro del Equipo de Mejora Continua a cargo de proveer i
 • Designed and implemented data integrations between the data lake and external platforms for tracking and engagement (Amplitude, Braze), enabling behavioral analytics, user segmentation, and real-time activation workflows.
 
 • Took ownership of data initiatives across multiple business units, leading technical design and reviewing implementations to ensure performance and best practices.
+
+-Data Analytics Engineer in the banking industry, working with AWS-based architectures, leveraging services across the AWS ecosystem to build scalable and reliable data platforms. I orchestrate data workflows using Apache Airflow and design transformation layers with DBT within a modern data lake architecture.
+
+- Optimized DBT models that were failing due to excessive data processing, redesigning transformations and implementing an SCD (Slowly Changing Dimensions) -based framework that reduced execution time by ~50% for critical workloads.
+
+- Designed and implemented batch and near real-time ingestion pipelines, using AWS Kinesis and Firehose. 
+
+- Developed Python-based scripts to extract data from APIs and ingest it into the Data Lake.
+
+- Contributed to CI/CD improvements by implementing automated PR validation workflows in GitHub, using Docker images, enforcing code quality standards for DBT models and Airflow DAGs. This reduced PR approval time drastically and allowed the team to focus only on high-impact changes.
+
+- Continuously leverage AI-driven solutions and applied AI tools and agents to optimize data workflows and enhance personal and team productivity. 
+
+- Contributed to the development of GitHub Actions to standardize deployment processes.
