@@ -456,3 +456,11 @@ new entities from 2–3 days to less than 1 day.
 ✅ Comunqué avances, decisiones y métricas a stakeholders, fomentando una visión integrada y compartida entre producto, tech, negocio y diseño.
 ✅ Contribuí en la definición de la estrategia de monetización y pricing, apoyando el desarrollo de modelos de ingresos sostenibles y competitivos.
 ✅ Mantuve una vigilancia activa sobre tendencias del mercado, anticipando oportunidades tecnológicas y necesidades emergentes de los usuarios.
+
+- Desarrollé y optimicé soluciones analíticas end-to-end para áreas críticas del negocio (Logística, Contable y Operaciones), procesando y limpiando grandes volúmenes de datos.  
+- Implementé pipelines de integración y despliegue continuo (CI/CD) mediante GitHub Workflows, facilitando el control de versiones, la orquestación y la automatización de procesos en el ecosistema Azure.  
+- Diseñé y construí modelos de datos aplicando Arquitectura Medallion (capas Bronze, Silver y Gold) en Azure Databricks, transformando datos crudos en activos de valor estructurados.  
+- Creé y orquesté flujos de trabajo ETL/ELT para el procesamiento distribuido utilizando Python, SQL Avanzado y Apache Spark, destacando el desarrollo de la arquitectura para proyectos complejos como el "Gestor de Monitoreo Terrestre" (procesamiento de telemetría y geocercas).  
+- Administré la capa semántica y visual en Power BI Service, configurando la conectividad de datos (gateways) y desarrollando tableros interactivos para disponibilizar KPIs precisos a los tomadores de decisiones.  
+- Capacité a nuevos integrantes de los proyectos en herramientas y tecnologías conocidas, compartiendo buenas prácticas y aportando una alta resiliencia para la resolución de problemas críticos bajo presión.  
+- Participé activamente trabajando bajo metodologías ágiles (Scrum), colaborando en la planificación de sprints y daily standups para asegurar la alineación técnica con los objetivos del proyecto.  
