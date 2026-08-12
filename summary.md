@@ -473,3 +473,37 @@ orchestrated dbt workflow, centralizing transformations and enhancing observabil
 ● AI-Augmented Development — Actively leverage AI tools (Claude) for IDE integration, accelerating development workflows including code generation, testing, debugging and multitasking directly within VS Code. 
 ● Gathering business and technical requirements from multiple stakeholders to ensure alignment between data solutions and organizational objectives. 
 ● Monitoring and maintaining production pipelines within Astronomer Cloud (Airflow) to ensure continuous data delivery and data fidelity. 
+
+
+● Initiated and successfully developed a Structured Spark Streaming service, significantly enhancing
+real-time data processing capabilities.
+● Implemented strategic cloud resource optimization techniques, slashing operational costs by 50%.
+● Overhauled critical processing algorithms, cutting execution times from 12 hours to 1 hour,
+markedly boosting system efficiency.
+● Promoted to team leader and successfully led a team of five Data Engineers
+
+
+● Rapidly overhauled a failing monitoring solution, enhancing system reliability and operational
+efficiency within one month.
+● Championed and deployed advanced upgrades to the monitoring system, significantly boosting
+operational efficiency and reliability.
+● Led and mentored 5 trainees, fast-tracking their proficiency in Big Data and AI for impactful project
+contributions.
+
+
+● Led cross-continental projects, enhancing collaboration across US, India, and China teams, and
+driving project success through effective synchronous and asynchronous communication.
+● Implemented rigorous database management and validation protocols, achieving a notable
+reduction in clinical trial errors by over 40%.
+● Maintained strict adherence to project timelines, ensuring 100% on-time delivery of clinical trial
+components.
+
+
+● Developed UNIX shell scripts that tripled operational efficiency by automating controls and
+executions.
+● Enhanced Operators UI Linux application and Power Center workflows, improving data integrity and
+system performance by 30%
+● Led the resolution of ORACLE database inconsistencies, improving system reliability and data
+accuracy
+● Utilized advanced programming to optimize processes and innovate solutions in VB, reducing
+report generation time by 50% and improving query performance.
