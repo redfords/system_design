@@ -463,4 +463,13 @@ new entities from 2–3 days to less than 1 day.
 - Creé y orquesté flujos de trabajo ETL/ELT para el procesamiento distribuido utilizando Python, SQL Avanzado y Apache Spark, destacando el desarrollo de la arquitectura para proyectos complejos como el "Gestor de Monitoreo Terrestre" (procesamiento de telemetría y geocercas).  
 - Administré la capa semántica y visual en Power BI Service, configurando la conectividad de datos (gateways) y desarrollando tableros interactivos para disponibilizar KPIs precisos a los tomadores de decisiones.  
 - Capacité a nuevos integrantes de los proyectos en herramientas y tecnologías conocidas, compartiendo buenas prácticas y aportando una alta resiliencia para la resolución de problemas críticos bajo presión.  
-- Participé activamente trabajando bajo metodologías ágiles (Scrum), colaborando en la planificación de sprints y daily standups para asegurar la alineación técnica con los objetivos del proyecto.  
+- Participé activamente trabajando bajo metodologías ágiles (Scrum), colaborando en la planificación de sprints y daily standups para asegurar la alineación técnica con los objetivos del proyecto.
+
+● Contributing to the migration of a legacy dbt project into a modern, industry-standard medallion architecture (Bronze/Silver/Gold), improving model organization, performance, and maintainability..
+● Designing and implementing data transformations using dbt and Snowflake, applying dimensional modeling techniques including star and snowflake schemas to support scalable, analytics-ready data products. 
+● Driving the transition from Snowflake Tasks to a fully
+orchestrated dbt workflow, centralizing transformations and enhancing observability, testing, and governance across the data platform.
+● Working extensively within the Snowflake ecosystem with structured and semi-structured data formats (JSON, CSV), building and optimizing SQL queries for extraction, transformation, and integration across multiple data sources. 
+● AI-Augmented Development — Actively leverage AI tools (Claude) for IDE integration, accelerating development workflows including code generation, testing, debugging and multitasking directly within VS Code. 
+● Gathering business and technical requirements from multiple stakeholders to ensure alignment between data solutions and organizational objectives. 
+● Monitoring and maintaining production pipelines within Astronomer Cloud (Airflow) to ensure continuous data delivery and data fidelity. 
