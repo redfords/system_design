@@ -415,3 +415,44 @@ new entities from 2–3 days to less than 1 day.
 • Standardized Unity Catalog governance through automated metadata, tagging, and access-control synchronization, automating ~80% of recurring governance configuration and enabling consistent security policies across environments.
 
 • Strengthened platform reliability through automated validation, deployment workflows, test coverage, and operational metrics, reducing pre-deployment validation time by ~40%.
+
+✅ Lideré un equipo de +6 analistas y científicos de datos, impulsando innovación y aumentando un 30% la adopción de IA en áreas clave.  
+✅ Diseñé una API forense unificada para productos de Security en User Accounts con Python + Flask, desplegada en serverless de baja latencia y downtime mínimo.  
+✅ Implementé un ecosistema MCP para consumo seguro de la API forense vía LLMs: accesos desde IDEs y Meli-GPT, y automatizaciones via Verdi-Flow (n8n) para respuestas forenses por correo/Slack.  
+✅ Alineé la estrategia de Data & Analytics con objetivos corporativos, priorizando iniciativas de alto impacto y mejorando eficiencia operativa en +20%.  
+✅ Fomenté una cultura de alto rendimiento mediante mentoring, upskilling y metodologías ágiles, elevando el eNPS en +25 puntos.  
+✅ Implementé soluciones analíticas que redujeron un 40% el tiempo de análisis mediante modelos predictivos, dashboards y automatización.  
+✅ Diseñé arquitecturas RAG mejorando en 35% la precisión contextual de respuestas generadas por LLMs.  
+✅ Entrené y desplegué modelos fine-tuned (BERT y GPT) optimizando clasificación y sentimiento, mejorando automatización en +20%.  
+✅ Lideré adopción de tecnologías emergentes (MLOps, vector DBs, LLMs), acelerando en 50% el time-to-market.  
+✅ Impulsé proyectos data-driven resolviendo desafíos críticos y generando +USD 500K de impacto anual estimado.  
+✅ Diseñé arquitecturas escalables para grandes volúmenes, mejorando 45% la performance de pipelines ETL.  
+✅ Establecí procesos robustos de calidad de datos, reduciendo errores críticos en 70% y aumentando confiabilidad ejecutiva.  
+✅ Automatizé workflows complejos con Airflow, dbt, n8n y Zapier, eliminando tareas manuales y mejorando eficiencia en 60%.
+
+✅ Formé parte del equipo de autenticación y login (User Accounts – Auth Login), contribuyendo al diseño y evolución de uno de los servicios más críticos del ecosistema.
+
+💡 Data & Analytics
+✅ Diseñé, construí y mantuve el modelo de datos de login (MP, ML, ME), asegurando su disponibilidad y confiabilidad a nivel organizacional.
+✅ Desarrollé dashboards estratégicos para monitorear métricas clave como conversión de login, recuperación de cuentas y uso de factores de autenticación.
+✅ Automatizé la actualización diaria de los modelos de datos mediante scripts eficientes, reduciendo significativamente el costo operativo y la intervención manual.
+✅ Generé insights accionables a través de reportes, dashboards y tablas ad hoc, facilitando la medición del impacto de nuevas funcionalidades de login.
+✅ Coordiné con equipos de Producto para alinear los entregables analíticos con el roadmap, garantizando una correcta interpretación de resultados y visualizaciones.
+
+💡 Backend
+✅ Construí una API REST desde cero para analizar transacciones de login y automatizar decisiones en Customer Experience, Prevención de Fraude y GIN.
+✅ Lideré la migración del modelo de autenticación de Amazon Athena a Google BigQuery, mejorando la escalabilidad, velocidad y mantenibilidad de la infraestructura de datos.
+✅ Desarrollé nuevas funcionalidades en el sistema Auth-Login, contribuyendo a la mejora continua de un producto core del ecosistema de autenticación.
+✅ Optimicé pipelines de procesamiento de datos, mejorando su rendimiento y garantizando disponibilidad en tiempo real para servicios críticos.
+✅ Implementé prácticas de seguridad avanzadas en los procesos de autenticación, fortaleciendo la protección del acceso de usuarios y la robustez del sistema.
+
+✅ Detecté oportunidades de mejora y nuevas funcionalidades a partir del análisis de datos de uso y feedback de usuarios, contribuyendo a la evolución continua del producto.
+✅ Colaboré con equipos de desarrollo y áreas de negocio para definir la estrategia y roadmap del producto, asegurando la alineación con los objetivos corporativos.
+✅ Realicé análisis de mercado y competencia para sustentar decisiones estratégicas, permitiendo identificar ventajas diferenciales y ajustar el posicionamiento del producto.
+✅ Aseguré estándares de calidad y una experiencia de usuario óptima a través de pruebas funcionales, validaciones de UX y mejoras iterativas basadas en métricas.
+✅ Gestioné el backlog priorizando funcionalidades según impacto y viabilidad, mejorando la eficiencia en la entrega y el enfoque en valor para el usuario.
+✅ Coordiné con el equipo técnico para garantizar claridad en los objetivos, prioridades y dependencias, facilitando una ejecución ágil y alineada.
+✅ Monitoreé métricas clave de negocio y producto (adopción, conversión, retención), impulsando decisiones de optimización que aumentaron la performance del producto.
+✅ Comunqué avances, decisiones y métricas a stakeholders, fomentando una visión integrada y compartida entre producto, tech, negocio y diseño.
+✅ Contribuí en la definición de la estrategia de monetización y pricing, apoyando el desarrollo de modelos de ingresos sostenibles y competitivos.
+✅ Mantuve una vigilancia activa sobre tendencias del mercado, anticipando oportunidades tecnológicas y necesidades emergentes de los usuarios.
