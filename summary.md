@@ -507,3 +507,27 @@ system performance by 30%
 accuracy
 ● Utilized advanced programming to optimize processes and innovate solutions in VB, reducing
 report generation time by 50% and improving query performance.
+
+
+• Founded the Data Governance & Quality department from scratch, scaling to 10+Data Engineers with structured career ladders, Managers, and Technical Leads as direct reports. Led 20+ Data Product squads across Brazil, Argentina, Colombia, and Bolivia.
+• Designed and implemented a Federated Data Governance Model based on the DAMA framework: defined product-based data domains, established Domain Boards and Data Committees, formalized Data Contracts between producer and consumer domains, and executed Maturity Assessments for every Data Product — adapting the framework by criticality and business value.
+• Deployed an on-premise DataHub catalog with 500,000+ mapped assets as the single source of truth for metadata, lineage, and governance  operationalized as a dual-access platform: UI for business users, API/MCP for engineers and AI agents. Internally developed automated features for lineage extraction, data contracts and assertions not natively available in the tool.
+• Built and deployed a PySpark observability framework profiling 100% of Critical Data Elements (CDEs), with dynamic thresholds and near real-time anomaly detection. Reduced data quality incidents by 40% and response times for critical process anomalies significantly, shifting from reactive to fully proactive monitoring.
+• Designed the Corporate AI Governance Framework and built an autonomous agent ecosystem (via MCP) on a centralized live knowledge base:
+  auto-documentation agent (analyzed .py code+lineage for 100% of CDEs in DataHub), automated Roadmap generator (translates business needs into Jira epics), and Jira auditor agents for governance compliance.
+• Established comprehensive data policies covering security, regulatory compliance (LGPD for Brazil, frameworks equivalent to GDPR/ISO 27001), naming conventions, and data lifecycle management - achieving full organizational adoption, validated by evidence of changed behavior in team processes.
+
+
+• Architected and led 300+ ETL/ELT pipelines using Airflow and Cloud Composer 
+  (GCP), processing hundreds of Terabytes of data monthly while maintaining 
+  95%+ availability across all critical workflows.
+• Implemented business and technical data catalogs using Google Dataplex and 
+  Data Catalog, documenting ownership, lineage, and business metadata for 75% 
+  of the company's critical tables and dashboards — significantly improving 
+  data discoverability and governance accountability.
+• Developed real-time BigQuery dashboards and data quality reports for 50+ 
+  stakeholders across 10 business areas, enabling evidence-based decision-making 
+  and KPI monitoring at scale.
+• Designed and maintained Data Lake and Data Warehouse architectures on GCP (BigQuery, Google Cloud Storage), integrating Cloud Functions and Python-based pipelines using Google APIs for end-to-end data processing automation.
+• Led a cross-functional team of Data Engineers in an agile environment (GitLab, Jira), delivering data products under strict SLAs and standardizing technical practices across the organization.
+• Tech stack: GCP · BigQuery · Airflow · Cloud Composer · Dataplex · Data Catalog · Cloud Functions · Python · SQL · GitLab
