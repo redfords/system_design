@@ -560,3 +560,13 @@ report generation time by 50% and improving query performance.
 • Automated Data Reliability: Developed automated validation frameworks and data quality checks, slashing downstream reporting errors and increasing pipeline uptime.
 
 • Cross-Functional: Partnered with Product teams to deliver high-priority datasets with directly impacting business growth.
+
+
+###Core Skills
+
+1. Strong knowledge of modern data architecture, including ingestion, transformation, orchestration, modeling, testing, and observability
+2. Ability to translate ambiguous Accounting, Finance, and Compliance requirements into scalable technical solutions
+3. Strong systems thinking, with a focus on automation, durable controls, and preventing recurring issues
+4. Sound judgment around data quality, reliability, risk, and the tradeoffs between immediate needs and long-term platform design
+5. Ability to work effectively with technical and non-technical stakeholders and communicate clearly with senior leaders
+6. A rigorous approach to validating outputs, investigating discrepancies, and resolving root causes
