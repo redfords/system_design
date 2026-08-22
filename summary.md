@@ -466,12 +466,17 @@ new entities from 2–3 days to less than 1 day.
 - Participé activamente trabajando bajo metodologías ágiles (Scrum), colaborando en la planificación de sprints y daily standups para asegurar la alineación técnica con los objetivos del proyecto.
 
 ● Contributing to the migration of a legacy dbt project into a modern, industry-standard medallion architecture (Bronze/Silver/Gold), improving model organization, performance, and maintainability..
+
 ● Designing and implementing data transformations using dbt and Snowflake, applying dimensional modeling techniques including star and snowflake schemas to support scalable, analytics-ready data products. 
-● Driving the transition from Snowflake Tasks to a fully
-orchestrated dbt workflow, centralizing transformations and enhancing observability, testing, and governance across the data platform.
+
+● Driving the transition from Snowflake Tasks to a fully orchestrated dbt workflow, centralizing transformations and enhancing observability, testing, and governance across the data platform.
+
 ● Working extensively within the Snowflake ecosystem with structured and semi-structured data formats (JSON, CSV), building and optimizing SQL queries for extraction, transformation, and integration across multiple data sources. 
+
 ● AI-Augmented Development — Actively leverage AI tools (Claude) for IDE integration, accelerating development workflows including code generation, testing, debugging and multitasking directly within VS Code. 
+
 ● Gathering business and technical requirements from multiple stakeholders to ensure alignment between data solutions and organizational objectives. 
+
 ● Monitoring and maintaining production pipelines within Astronomer Cloud (Airflow) to ensure continuous data delivery and data fidelity. 
 
 
@@ -510,24 +515,48 @@ report generation time by 50% and improving query performance.
 
 
 • Founded the Data Governance & Quality department from scratch, scaling to 10+Data Engineers with structured career ladders, Managers, and Technical Leads as direct reports. Led 20+ Data Product squads across Brazil, Argentina, Colombia, and Bolivia.
+
 • Designed and implemented a Federated Data Governance Model based on the DAMA framework: defined product-based data domains, established Domain Boards and Data Committees, formalized Data Contracts between producer and consumer domains, and executed Maturity Assessments for every Data Product — adapting the framework by criticality and business value.
+
 • Deployed an on-premise DataHub catalog with 500,000+ mapped assets as the single source of truth for metadata, lineage, and governance  operationalized as a dual-access platform: UI for business users, API/MCP for engineers and AI agents. Internally developed automated features for lineage extraction, data contracts and assertions not natively available in the tool.
+
 • Built and deployed a PySpark observability framework profiling 100% of Critical Data Elements (CDEs), with dynamic thresholds and near real-time anomaly detection. Reduced data quality incidents by 40% and response times for critical process anomalies significantly, shifting from reactive to fully proactive monitoring.
+
 • Designed the Corporate AI Governance Framework and built an autonomous agent ecosystem (via MCP) on a centralized live knowledge base:
   auto-documentation agent (analyzed .py code+lineage for 100% of CDEs in DataHub), automated Roadmap generator (translates business needs into Jira epics), and Jira auditor agents for governance compliance.
+
 • Established comprehensive data policies covering security, regulatory compliance (LGPD for Brazil, frameworks equivalent to GDPR/ISO 27001), naming conventions, and data lifecycle management - achieving full organizational adoption, validated by evidence of changed behavior in team processes.
 
 
-• Architected and led 300+ ETL/ELT pipelines using Airflow and Cloud Composer 
-  (GCP), processing hundreds of Terabytes of data monthly while maintaining 
-  95%+ availability across all critical workflows.
-• Implemented business and technical data catalogs using Google Dataplex and 
-  Data Catalog, documenting ownership, lineage, and business metadata for 75% 
-  of the company's critical tables and dashboards — significantly improving 
-  data discoverability and governance accountability.
-• Developed real-time BigQuery dashboards and data quality reports for 50+ 
-  stakeholders across 10 business areas, enabling evidence-based decision-making 
-  and KPI monitoring at scale.
-• Designed and maintained Data Lake and Data Warehouse architectures on GCP (BigQuery, Google Cloud Storage), integrating Cloud Functions and Python-based pipelines using Google APIs for end-to-end data processing automation.
-• Led a cross-functional team of Data Engineers in an agile environment (GitLab, Jira), delivering data products under strict SLAs and standardizing technical practices across the organization.
-• Tech stack: GCP · BigQuery · Airflow · Cloud Composer · Dataplex · Data Catalog · Cloud Functions · Python · SQL · GitLab
+- Architected and led 300+ ETL/ELT pipelines using Airflow and Cloud Composer (GCP), processing hundreds of Terabytes of data monthly while maintaining 95%+ availability across all critical workflows.
+
+- Implemented business and technical data catalogs using Google Dataplex and Data Catalog, documenting ownership, lineage, and business metadata for 75% of the company's critical tables and dashboards — significantly improving data discoverability and governance accountability.
+
+- Developed real-time BigQuery dashboards and data quality reports for 50+ stakeholders across 10 business areas, enabling evidence-based decision-making and KPI monitoring at scale.
+
+- Designed and maintained Data Lake and Data Warehouse architectures on GCP (BigQuery, Google Cloud Storage), integrating Cloud Functions and Python-based pipelines using Google APIs for end-to-end data processing automation.
+
+- Led a cross-functional team of Data Engineers in an agile environment (GitLab, Jira), delivering data products under strict SLAs and standardizing technical practices across the organization.
+
+
+• Modern Data Stack Migration: Led a strategic architectural migration from a legacy Redshift + PySpark environment to a high-performance Snowflake + dbt stack, drastically reducing query latency and operational overhead.
+
+• Analytics Engineering & Medallion Architecture: Revolutionized data transformation workflows by implementing dbt and a Medallion Architecture (Bronze, Silver, Gold) on Snowflake, accelerating development velocity and establishing a modular "single source of truth."
+
+• AI & ML-Ready Pipelines: Partnered with Data Science teams to build robust feature pipelines and production-grade ML workflows using Snowflake Cortex AI, leveraging built-in LLM and machine learning functions to optimize predictive accuracy and data intelligence.
+
+• Growth & Marketing Optimization: Acted as a technical partner for the Marketing team to architect high-fidelity CRM data flows, directly enhancing campaign targeting precision and customer acquisition efficiency.
+
+• Cloud Infrastructure & Orchestration: Designed and managed high-availability ETL pipelines using Airflow, leveraging Terraform and Docker to ensure scalable, drift-free cloud environments across the AWS ecosystem.
+
+• High-Scale Pipeline Architecture: Architected and deployed end-to-end ETL/ELT pipelines using Databricks (PySpark & Delta Lake), managing multi-terabyte datasets within a complex ecosystem.
+
+• Gold-Standard Data Modeling: Engineered curated Gold Layer datasets by implementing sophisticated Medallion Architecture, star schemas, and Slowly Changing Dimensions (SCDs) to drive executive reporting.
+
+• AI-Driven Analytics: Engineered an LLM-powered AI agent using LangChain to enable self-service analytics, allowing non-technical stakeholders to query complex datasets via natural language.
+
+• Performance Engineering: Optimized distributed Spark jobs and advanced SQL queries, resulting in significant reductions in execution time and cloud compute costs.
+
+• Automated Data Reliability: Developed automated validation frameworks and data quality checks, slashing downstream reporting errors and increasing pipeline uptime.
+
+• Cross-Functional: Partnered with Product teams to deliver high-priority datasets with directly impacting business growth.
