@@ -562,7 +562,7 @@ report generation time by 50% and improving query performance.
 • Cross-Functional: Partnered with Product teams to deliver high-priority datasets with directly impacting business growth.
 
 
-###Core Skills
+#### Core Skills
 
 1. Strong knowledge of modern data architecture, including ingestion, transformation, orchestration, modeling, testing, and observability
 2. Ability to translate ambiguous Accounting, Finance, and Compliance requirements into scalable technical solutions
@@ -570,3 +570,12 @@ report generation time by 50% and improving query performance.
 4. Sound judgment around data quality, reliability, risk, and the tradeoffs between immediate needs and long-term platform design
 5. Ability to work effectively with technical and non-technical stakeholders and communicate clearly with senior leaders
 6. A rigorous approach to validating outputs, investigating discrepancies, and resolving root causes
+
+#### Leadership & Collaboration
+
+1. Operates independently, takes accountability for outcomes, and sets technical direction across teams
+2. Partners effectively with Analytics, Accounting, Tax, Finance, Payments, Compliance, and Engineering
+3. Communicates technical concepts, risks, dependencies, and tradeoffs clearly to technical and non-technical audiences
+4. Builds maintainable, documented solutions and helps other engineers adopt effective and responsible AI-enabled engineering practices
+5. Raises the engineering bar through well-documented, maintainable work — and shares knowledge with analytics and accounting partners to build broader data literacy across the team
+6. Mentors others and raises the technical bar for financial data systems
